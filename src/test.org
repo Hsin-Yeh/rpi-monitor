@@ -1,0 +1,34 @@
+# It is a test org file
+
+* Daily life todos
+* Write letter to Sam
+* TODO itutor
+
+
+
+*
+* TODO FPGA souce code modification
+
+* TODO test stand cablecheck 
+  
+* TODO Thesis drafting
+
+* TODO 2 Point Correlation
+
+
+* Flute quartet 
+  SCHEDULED: <2019-05-01 Wed 13:00>
+
+* 
+
+* 
+
+* 
+
+* 
+
+** 
+
+** 
+
+
